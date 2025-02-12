@@ -1,1 +1,4 @@
 .idea/
+/faerskit.egg-info/
+/dist/
+/build/
